@@ -1,0 +1,20 @@
+*.py[cod]
+
+# Unit test / coverage reports
+.coverage
+.noseids
+
+# IDE Cruft
+.project
+.pydevproject
+.ropeproject
+
+# lib sym links
+lib
+
+# javascript
+node_modules
+
+# Build artifacts.
+.build
+

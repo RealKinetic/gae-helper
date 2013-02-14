@@ -1,0 +1,7 @@
+# Any dependencies listed here will only be installed locally, and will not be
+# deployed with your app.
+mock==1.0.1
+nose==1.2.1
+rednose==0.3.3
+coverage==3.6
+NoseGunit==0.0.1
